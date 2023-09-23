@@ -1,0 +1,16 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.card{
+ border: 1px solid #ddd;
+ padding:1rem;
+ margin: 1rem;
+
+}
+.hidden{
+    display: none;
+}
